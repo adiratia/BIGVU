@@ -1,0 +1,59 @@
+.App {
+  margin: 30px;
+}
+
+.container { 
+	text-align: center; 
+} 
+ 
+
+.center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/* NavBar */
+.mr-auto{
+  width:30%;
+  margin-left: 35%;
+}
+.nav-color{
+  background-color: #1a8dda;
+}
+
+
+ /*Canvas */
+#imageCanvas {
+
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-right: 20px;
+  margin-top: 20px;
+  box-shadow: 1px 2px 14px 0px rgba(89,87,87,0.85);
+
+
+}
+#textCanvas{
+  background-color: rgba(52, 52, 52, 0.0);
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-right: 20px;
+  margin-top: 20px;
+  box-shadow: 1px 2px 14px 0px rgba(89,87,87,0.85);
+
+}
+
+
+.canvasLayer {
+  position: relative;
+  
+  text-align:center;
+ 
+}
+.canvasStyle {
+    position: absolute ;
+
+    z-index: 0;
+    left:22%;
+    margin-left:-20px;
+}
