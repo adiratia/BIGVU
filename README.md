@@ -1,6 +1,6 @@
 # BIGVU - Assignment 2
 
-Web application using ReactJS,express that create a canvas with images and text
+Web application using ReactJS,express that create a canvas with images and text.
 
 ## Running Steps
 
@@ -8,7 +8,7 @@ Web application using ReactJS,express that create a canvas with images and text
 
 ### 2. run  `node src/server.js`
 
-Run the express server that listening on port 3001
+Run express server that listening on port 3001.
 
 ### 3. run `npm start`
 
