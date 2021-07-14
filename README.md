@@ -1,4 +1,3 @@
-# BIGVU - Assignment 2
 
 Web application using ReactJS,express that create a canvas with images and text.
 
